@@ -1,0 +1,68 @@
+*{
+    margin: 9px;
+
+} 
+.margin{
+    
+    margin: 30px 10px;
+  }
+.button {
+    border: 10px solid white;
+    background-color: black;
+    color: white;
+    padding: 10px;
+   text-align: center;
+  }
+ 
+  
+  #button2 { 
+  
+padding: 0px 30px;
+    text-align: center;
+       border:rgb(255, 216, 20) solid 10px;
+    border-radius: 50px;
+    background-color:rgb(255, 216, 20);
+    color: rgb(0, 0, 0);
+  }
+  .button3{
+    padding: 0px 15px;
+    text-align: center;
+       border:rgb(46,164,79) solid 10px;
+    border-radius: 10px;
+    background-color:rgb(46,164,79);
+    color: rgb(255, 255, 255);
+  }
+  .button4_1{
+    padding: 0px 15px;
+    text-align: center;
+       border:rgb(114, 84, 172) solid 10px;
+    border-radius: 5px;
+    background-color:rgb(114, 84, 172);
+    color: rgb(255, 255, 255);
+  }
+  .button4_2{
+    border: 1px solid rgb(108,117,125);
+    color:rgb(108,117,125);
+    padding: 9px 20px;
+    border-radius: 5px;
+  }
+
+  .button5_1{
+    padding: 0px 10px;
+    text-align: center;
+       border:rgb(10,102,194) solid 10px;
+    border-radius: 50px;
+    background-color:rgb(10,102,194);
+    color: rgb(255, 255, 255);
+  }
+  .button5_2{
+    border: 1px solid rgb(10,102,194);
+    color:rgb(10,102,194);
+    padding:8px 25px;
+    border-radius: 20px;
+  
+  }
+  
+  
+  
+  
